@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://f.99sai.com/release/_maoshuai/fgddz_3.ipa</string>
+					<string>http://f.99sai.com/release/TqLord/3.09/TqLord_3.09.0.89.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.zqyl.zqylapp</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>3.89</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
