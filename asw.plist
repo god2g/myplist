@@ -11,21 +11,21 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.xuezitx.com/flb/flb.ipa</string>
+					<string>http://www.xuezitx.com/asw/asw.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xfkp.xfkpapp</string>
+				<string>com.czhuan.czhuanapp</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>FLB</string>
+				<string>爱上我</string>
 				<key>title</key>
-				<string>FLB</string>
+				<string>爱上我</string>
 			</dict>
 		</dict>
 	</array>
