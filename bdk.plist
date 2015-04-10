@@ -11,21 +11,21 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://xztx.zzala.com/dl/vctx.ipa</string>
+					<string>http://xztx.zzala.com/dl/bdk.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zqyl.zqylapp</string>
+				<string>com.qmxw.qmxwapp</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>Vc通讯</string>
+				<string>暴打卡</string>
 				<key>title</key>
-				<string>Vc通讯</string>
+				<string>暴打卡</string>
 			</dict>
 		</dict>
 	</array>
