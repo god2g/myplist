@@ -17,15 +17,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.lxcall.sxhzht</string>
+				<string>com.zqyl.zqylapp</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>4G通</string>
+				<string>帮得利</string>
 				<key>title</key>
-				<string>4G通</string>
+				<string>帮得利</string>
 			</dict>
 		</dict>
 	</array>
