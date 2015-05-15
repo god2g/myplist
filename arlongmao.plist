@@ -17,31 +17,29 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<true/>
 					<key>url</key>
-					<string>http://www.goomar.cn/upload/mar/agxqnar_large.png</string>
+					<string>http://www.goomar.cn/upload/mar/arlongmao_large.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<true/>
 					<key>url</key>
-					<string>http://www.goomar.cn/upload/mar/agxqnar_small.png</string>
+					<string>http://www.goomar.cn/upload/mar/arlongmao_small.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yuxuan.miss</string>
-				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>com.zqyl.zqylapp</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>AGXQN</string>
+				<string>arlongmao</string>
 				<key>title</key>
-				<string>AGXQN</string>
+				<string>arlongmao</string>
 			</dict>
 		</dict>
 	</array>
