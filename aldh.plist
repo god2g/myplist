@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://xztx.nts99.com/apple/altx.ipa</string>
+					<string>http://xztx.nts99.com/apple/aldh.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,9 +23,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>爱聊通信</string>
+				<string>爱聊电话</string>
 				<key>title</key>
-				<string>爱聊通信</string>
+				<string>爱聊电话</string>
 			</dict>
 		</dict>
 	</array>
