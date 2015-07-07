@@ -11,21 +11,21 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://120.25.234.154/app/yh/jhh_1.0.ipa</string>
+					<string>http://120.25.234.154/app/yh/lfl_1.0.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yade.jhh</string>
+				<string>com.yade.lfl</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>金辉煌门业</string>
+				<string>利福莱</string>
 				<key>title</key>
-				<string>金辉煌门业</string>
+				<string>利福莱</string>
 			</dict>
 		</dict>
 	</array>
