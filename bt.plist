@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://bcs.duapp.com/downxia/IOS.ipa</string>
+					<string>http://bcs.duapp.com/btdown/bthezi_ios.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ten.ios</string>
+				<string>com.yeshan.h5</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
