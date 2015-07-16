@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zqyl.zqylapp</string>
+				<string>com.yade.agx</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
