@@ -11,13 +11,29 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
+<<<<<<< Updated upstream
 					<string>http://www.weipvr.com/mxcz/download/mxcz.ipa</string>
+=======
+<<<<<<< HEAD
+					<string>https://weixin.weipvr.com/download/mxcz/mxcz.ipa</string>
+=======
+					<string>http://www.weipvr.com/mxcz/download/mxcz.ipa</string>
+>>>>>>> origin/master
+>>>>>>> Stashed changes
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
+<<<<<<< Updated upstream
 				<string>com.yeshan.mxcz</string>
+=======
+<<<<<<< HEAD
+				<string>com.atet.test</string>
+=======
+				<string>com.yeshan.mxcz</string>
+>>>>>>> origin/master
+>>>>>>> Stashed changes
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
