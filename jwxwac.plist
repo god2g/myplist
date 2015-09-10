@@ -11,21 +11,21 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.weipvr.com/amu/download/amu.ipa</string>
+					<string>http://o2o.hx168.com.cn/m/o2o/download/account/ipa/jwxwac.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.AoyiGames.SDMLDN.amu</string>
+				<string>com.yeshan.iosopen</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>阿木历险记</string>
+				<string>华西证券</string>
 				<key>title</key>
-				<string>阿木历险记</string>
+				<string>华西证券</string>
 			</dict>
 		</dict>
 	</array>

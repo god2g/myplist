@@ -11,21 +11,21 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.weipvr.com/amu/download/amu.ipa</string>
+					<string>http://www.ycc365.com/app/ycc365.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.AoyiGames.SDMLDN.amu</string>
+				<string>com.lxcall.sxhzht</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>阿木历险记</string>
+				<string>印材城</string>
 				<key>title</key>
-				<string>阿木历险记</string>
+				<string>印材城</string>
 			</dict>
 		</dict>
 	</array>
