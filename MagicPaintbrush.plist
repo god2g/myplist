@@ -11,25 +11,21 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.31360cn.com/Lyl/Download/dcnvoips.ipa</string>
+					<string>http://www.goomar.cn/upload/magic/MagicPaintbrush.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-<<<<<<< HEAD
-				<string>com.weituowangluo.dcn</string>
-=======
-				<string>com.zk.HappyWo.dcn</string>
->>>>>>> origin/master
+				<string>im.pre.beta.app7</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>聊意聊</string>
+				<string>神笔涂画</string>
 				<key>title</key>
-				<string>聊意聊</string>
+				<string>神笔涂画</string>
 			</dict>
 		</dict>
 	</array>
