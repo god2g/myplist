@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.goomar.cn/upload/magic/MagicPaintbrush.ipa</string>
+					<string>http://www.goomar.cn/uplaod/magic/MagicPaintbrush.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>im.pre.beta.app7</string>
+				<string>cn.p52.yql.mpb</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
