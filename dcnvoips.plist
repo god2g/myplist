@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.weituowangluo.dcn</string>
+				<string>cn.p52.yql.dcn</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
